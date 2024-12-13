@@ -30,7 +30,8 @@ Predict sales for short-term planning.
 Created dashboards with KPIs like total sales, orders, profit, and average delivery time.
 Visualized data through bar charts, line graphs, and maps for actionable insights.
 
-**4. Calculated DAX column**
+
+**5. Calculated DAX column**
 DAX Formulae Used :
 
 **1. AvgDelivery = DATEDIFF(Sales[Order Date],Sales[Ship Date],DAY)**
