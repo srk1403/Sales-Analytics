@@ -41,7 +41,8 @@ DAX Formulae Used :
  
 **Sales Forecasting:**
 Developed a 15-day forecast using historical trends to guide short-term decisions.
-https://github.com/srk1403/Sales-Analytics/issues/1#issue-2737571926
+<img width="442" alt="FV" src="https://github.com/user-attachments/assets/d11749f6-56fe-49fe-a5f7-373b3e650706" />
+
 
 **SWOT Analysis:**
 Evaluated strengths (e.g., consumer segment dominance, YoY growth).
