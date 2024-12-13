@@ -40,13 +40,16 @@ DAX Formulae Used :
 - Dynamically generates a date range based on the minimum and maximum dates in the dataset.
  <img width="110" alt="OD" src="https://github.com/user-attachments/assets/366eb1e0-8652-4773-b0b4-f5155255e847" />
 
+
 **Sales Forecasting:**
 Developed a 15-day forecast using historical trends to guide short-term decisions.
 <img width="442" alt="FV" src="https://github.com/user-attachments/assets/d11749f6-56fe-49fe-a5f7-373b3e650706" />
 
 
 **SWOT Analysis:**
-Evaluated strengths (e.g., consumer segment dominance, YoY growth).
-Identified weaknesses (e.g., COD impact on cash flow, unprofitable states).
-Highlighted opportunities to grow in underperforming regions and segments.
-Noted threats from dependency on specific segments.
+- Evaluated strengths (e.g., consumer segment dominance, YoY growth).
+- Identified weaknesses (e.g., COD impact on cash flow, unprofitable states).
+- Highlighted opportunities to grow in underperforming regions and segments.
+- Noted threats from dependency on specific segments.
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/c1fb5502-95bb-4e30-a838-b08cb5b4e132" />
